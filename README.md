@@ -30,7 +30,7 @@ Busco constantemente novos desafios que me permitam crescer e inovar na área te
   <img align="center" alt="Thais-Braga-Postman" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
   <img align="center" alt="Thais-Braga-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
-
+<br><br>
 
 Aqui essão ideias ✨ _especiais_ ✨ para saber sobre mim:
 
